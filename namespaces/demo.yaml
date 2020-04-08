@@ -9,5 +9,5 @@ metadata:
 kind: Namespace
 metadata:
   labels:
-    name: demon
-  name: demon
+    name: demon1
+  name: demon1
