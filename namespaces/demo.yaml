@@ -4,10 +4,3 @@ metadata:
   labels:
     name: demo
   name: demo
-
-
-kind: Namespace
-metadata:
-  labels:
-    name: demon1
-  name: demon1
